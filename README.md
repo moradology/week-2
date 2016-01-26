@@ -5,6 +5,7 @@
 ## Week 1 Review
 
 ### Git/Github addendum
+- Using Github's Online interface
 - Forking
 - Pull requests
 
@@ -52,4 +53,3 @@ in a simplified CSV format. We can provide this to them in console printouts.
 Some health centers offer dental services as well. Can you find a way to
 give centers that provide dental services a different icon than those
 that do not?
-
